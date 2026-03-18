@@ -24,7 +24,7 @@ An AI-powered code review tool that analyzes your code and gives instant feedbac
 
 ### 1. Clone the repo
 ```
-git clone https://github.com/YOUR_USERNAME/ai-code-reviewer.git
+git clone https://github.com/naveena-oop/ai-code-reviewer.git
 cd ai-code-reviewer
 ```
 
@@ -55,7 +55,8 @@ npm start
 Visit `http://localhost:3000`
 
 ## 📸 Screenshots
-> Add screenshots here
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2ba3e2d1-9ea1-45f5-9181-30d0601e5765" />
+
 
 ## 🤝 Contributing
 Pull requests are welcome!
