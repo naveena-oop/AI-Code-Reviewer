@@ -1,0 +1,13 @@
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { background: #0d1117; color: #e6edf3; font-family: 'Segoe UI', sans-serif; }
+.app { max-width: 900px; margin: 0 auto; padding: 2rem; }
+h1 { text-align: center; margin-bottom: 1.5rem; font-size: 2rem; color: #58a6ff; }
+.controls { display: flex; gap: 1rem; margin-bottom: 1rem; }
+select { padding: 0.5rem 1rem; border-radius: 6px; background: #161b22; color: #e6edf3; border: 1px solid #30363d; font-size: 1rem; }
+button { padding: 0.5rem 1.5rem; background: #238636; color: white; border: none; border-radius: 6px; font-size: 1rem; cursor: pointer; }
+button:hover { background: #2ea043; }
+button:disabled { background: #444; cursor: not-allowed; }
+.editor-section { border: 1px solid #30363d; border-radius: 8px; overflow: hidden; margin-bottom: 1.5rem; }
+.review-box { background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 1.5rem; }
+.review-box h2 { margin-bottom: 1rem; color: #58a6ff; }
+.review-box pre { white-space: pre-wrap; line-height: 1.6; font-size: 0.95rem; }
